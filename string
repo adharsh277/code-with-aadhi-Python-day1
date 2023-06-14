@@ -1,0 +1,12 @@
+apple="""
+he said, that thwe demcraauaccg sjguf is the natioal anthem of the indian  """
+print(apple)
+print(apple[5])
+print(apple[8])
+print(apple[2])
+print(apple[1])
+print(apple[4])
+print(apple[7])
+print(apple[8])
+for character in apple:
+  print(character)
