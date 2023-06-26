@@ -1,0 +1,9 @@
+#list
+marks=[8,9,77,'harry', False]
+print(marks)
+print(marks[0])
+print(marks[1])
+print(marks[4])
+print(marks[2])
+if "harry" in marks:
+  print("yuesy")
